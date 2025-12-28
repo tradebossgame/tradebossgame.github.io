@@ -16,12 +16,19 @@ NoName;No Name;بی نام
 NotSet;Not Set;تعیین نشده
 Update;Update;بروز رسانی
 Ended;Ended;پایان یافته
+Days;Days;روز
+Hours;Hours;ساعت
+Minutes;Minutes;دقیقه
+Seconds;Seconds;ثانیه
+Order;Order;سفارش
+Position;Position;موقعیت
+Trade;Trade;معامله
 Downgrade;Downgrade;نسخه قدیمی
 ForceUpdate;Update needed;نیاز یه یروز رسانی
 AlreadyOnline;user is online;کاربر آنلاین است
 ConnectionError;Connection error;خطا در اتصال
 LoginError;Error in login;خطا در ورود
-TradeInfo;"In Trade tab; you can practice trading";در صفحه ترید، میتوانید به صورت تمرینی توانایی خود را با قیمت و شرایط واقعی بسنجید
+TradeInfo;In Trade tab you can practice trading;در صفحه ترید، میتوانید به صورت تمرینی توانایی خود را با قیمت و شرایط واقعی بسنجید
 GameInfo;Game tab contains different game modes;این صفحه شامل بازی های مختلف با جوایز نقدی است
 OmenInfo;Omen is prediction market;فال نام یک بازار پیش بینی است که می توانید در آن مشارکت کنید و وقایع آینده را پیش بینی کنید و جوایز نقدی هم برنده شوید
 WalletInfo;you can deposit and withdraw money in this tab;کیف پول شما در بازی با اماکن واریز و برداشت
@@ -34,7 +41,7 @@ EmailSubmitted;Email submitted;ایمیل ثبت شد
 BalanceTooLow;Balance is too low;موجودی ترید کم است
 ChooseNickname;Choose nickname;نام مستعار خود را انتخاب کنید
 ClearDataWarning;Are you sure you want to clear user data?;آیا اطمینان دارید که میخواهید
-RemoveEmailWarning;without email you can't recover your account. Are you sure you want to remove your email address from your account;مطمدن هستید میخواههید ایمیل حذف شود
+RemoveEmailWarning;without email you can't recover your account. Are you sure you want to remove your email address from your account;مطمئن هستید میخواههید ایمیل حذف شود
 NewUserWarning;this need to be changed;فعلا هیچی
 WrongEmail;Entered email not found;ایمیل وارد شده پیدا نشد
 WrongCode;Incorrect code;کد وارد شده اشتباه است
@@ -46,12 +53,13 @@ EnterValidPrice;Enter a valid integer number;قیمت را به صورت یک ع
 en;English;English
 fa;پارسی;پارسی
 ChooseLanguage;Choose your language;زبان خود را انتخاب کنید
-Trade;Trade;ترید
 Game;Game;بازی
 Omen;Omen;فال
 Wallet;Wallet;کیف پول
 User;User;کاربر
+Start;Start;شروع
 Back;Back;بازگشت
+Price;Price;قیمت
 ComingSoon;Coming soon!;بزودی!
 Money;Money;پول
 Deposit;Deposit;واریز
@@ -78,7 +86,7 @@ EndGame;End game;اتمام بازی
 ClaimReward;Claim reward;دریافت جایزه
 PleaseWait;Please wait!;لطفا کمی صبر کنید!
 Margin;Margin;تضمین
-Side;Side;نوع
+Side;Side;سمت
 Buy;Buy;خرید
 Sell;Sell;فروش
 Leverage;Leverage;اهرم
@@ -87,7 +95,7 @@ ClosePrice;Close price;قیمت خروج
 ProfitLoss;Profit/loss;سود و زیان
 TakeProfit;Take profit;دریافت سود
 StopLoss;Stop loss;توقف ضرر
-LiquidationPrice;Liquidation price;قیمت ورشکست
+LiquidationPrice;Liquidation price;قیمت لیکویید
 CancelOrder;Cancel order;حذف سفارش
 ClosePosition;Close position;بستن معامله
 SubmitOrder;Submit order;ثبت سفارش
