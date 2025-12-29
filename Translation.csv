@@ -23,6 +23,11 @@ Seconds;Seconds;ثانیه
 Order;Order;سفارش
 Position;Position;موقعیت
 Trade;Trade;معامله
+Dash;Dash;جهش
+Deposit;Deposit;واریز
+Withdraw;Withdraw;برداشت
+DashReward;DashReward;جایزه جهش
+WelcomeGift;WelcomeGift;هدیه خوشامد
 Downgrade;Downgrade;نسخه قدیمی
 ForceUpdate;Update needed;نیاز یه یروز رسانی
 AlreadyOnline;user is online;کاربر آنلاین است
@@ -62,8 +67,6 @@ Back;Back;بازگشت
 Price;Price;قیمت
 ComingSoon;Coming soon!;بزودی!
 Money;Money;پول
-Deposit;Deposit;واریز
-Withdraw;Withdraw;برداشت
 UserId;User Id;شناسه کاربر
 SetNickname;Set Nickname;تعیین نام مستعار
 SelectAvatar;Select Avatar;انتخاب آواتار
@@ -73,7 +76,6 @@ CreateNewUser;Create new user;ایجاد کاربر جدید
 LoginWithEmail;Login with email;ورود با ایمیل
 ChangeLanguage;Change language;تغییر زبان
 ClearData;Clear data;پاک کردن دیتا
-Dash;Dash;جهش
 Target;Target;هدف
 TimeLimit;Time limit;زمان
 Cost;Cost;قیمت
