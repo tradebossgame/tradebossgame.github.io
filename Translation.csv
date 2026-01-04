@@ -6,7 +6,7 @@ Next;Next;بعدی
 Cancel;Cancel;انصراف
 Close;Close;بستن
 Save;Save;ذخیره
-Retry;Retry;سعی دوباره
+Retry;Retry;تلاش دوباره
 Quit;Quit;خروج
 Info;Info;اطلاعات
 Download;Download;دانلود
@@ -46,7 +46,7 @@ EmailSubmitted;Email submitted;ایمیل ثبت شد
 BalanceTooLow;Balance is too low;موجودی ترید کم است
 ChooseNickname;Choose nickname;نام مستعار خود را انتخاب کنید
 ClearDataWarning;Are you sure you want to clear user data?;آیا اطمینان دارید که میخواهید
-RemoveEmailWarning;without email you can't recover your account. Are you sure you want to remove your email address from your account;مطمئن هستید میخواههید ایمیل حذف شود
+RemoveEmailWarning;without email you can't recover your account. Are you sure you want to remove your email address from your account;مطمئن هستید میخواهید ایمیل حذف شود
 NewUserWarning;this need to be changed;فعلا هیچی
 WrongEmail;Entered email not found;ایمیل وارد شده پیدا نشد
 WrongCode;Incorrect code;کد وارد شده اشتباه است
@@ -67,6 +67,7 @@ Back;Back;بازگشت
 Price;Price;قیمت
 ComingSoon;Coming soon!;بزودی!
 Money;Money;پول
+Copy;Copy;کپی
 UserId;User Id;شناسه کاربر
 SetNickname;Set Nickname;تعیین نام مستعار
 SelectAvatar;Select Avatar;انتخاب آواتار
