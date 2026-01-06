@@ -8,7 +8,7 @@ Close;❌Close;❌بستن
 Save;✅Save;✅ذخیره
 Retry;🔄Retry;🔄تلاش دوباره
 Quit;🚪Quit;🚪خروج
-Info;ℹ️Info;اطلاعاتℹ️
+Info;ℹ️Info;ℹ️اطلاعات
 Download;⬇️Download;⬇️دانلود
 Email;✉️Email;✉️ایمیل
 Code;Code;کد
@@ -84,9 +84,9 @@ Target;🎯Target;🎯هدف
 TimeLimit;⏱️Time limit;⏱️زمان
 Cost;🪙Cost;🪙قیمت
 Reward;💰Reward;💰جایزه
-DashInfo;🚀Dash mode is a time-limited trade game with a target;در بازی 🚀جهش در زمان محدودی باید به سود مشخصی دست پیدا کنید
-JumpInfo;in 🏆Jump mode, you compete with other players in a limited time and best players get money rewards;در بازی 🏆پرش شما با بازیکنان دیگر در مدتی محدود رقابت میکنید و بهترین بازیکنان جایزه نقدی دریافت میکنند
-RiseInfo;Are you ready for a 1000💲 challenge? 👑Rise mode is a multi-level game in which money reward increase each level and you can claim your money reward and leave in each level;برای یک چالش با جایزه 1000💲آماده ای؟ بازی 👑صعود یک بازی چند مرحله ایست که در هر مرحله جایزه افزایش می یابد و شما در هر مرحله که بخواهید می توانید از جایزه خود را دریافت کنید و از بازی خارج شوید
+DashInfo;🚀Dash mode is a time-limited trade game with a target;در بازی 🚀جهش در زمان محدود باید به سود مشخصی دست پیدا کنید
+JumpInfo;in 🏆Jump mode, you compete with other players in a limited time and best players get money rewards;در بازی 🏆پرش شما با بازیکنان دیگر در مدتی محدود رقابت می کنید و بهترین بازیکنان جایزه نقدی دریافت می کنند
+RiseInfo;Are you ready for a 1000💲 challenge? 👑Rise mode is a multi-level game in which money reward increase each level and you can claim your money reward and leave in each level;برای یک چالش با جایزه 1000💲آماده ای؟ 👑صعود یک بازی چند مرحله ای است که در هر مرحله جایزه افزایش می یابد و شما در هر مرحله که بخواهید می توانید از جایزه خود را دریافت کنید و از بازی خارج شوید
 Balance;💳Balance;💳موجودی
 Play;▶️Play;◀️ورود
 NewGame;✨New game;✨بازی جدید
