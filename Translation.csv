@@ -42,7 +42,7 @@ OmenInfo;"👁Omen" is a "Prediction market";»👁فال« نام یک بازا
 WalletInfo;you can deposit and withdraw money in "Wallet" tab;»💼کیف پول« شما در بازی با اماکن واریز و برداشت
 UserInfo;"👤User" and Game settings are here;تنظیمات مربوط به کاربر و بازی
 DepositRule;⚠️Deposit is available when in-game money is less that 9💲and can increase balance up to 10💲;⚠️پرداخت برای موجودی کمتر از 9💲 امکان پذیر است و می توانید موجودی را تا 10💲 افزایش دهید   
-WithdrawRule;⚠️Withdrawals are available above 20💲; You can keep up to 10💲;⚠️حداقل موجودی برای برداشت 20💲 است. تا 10💲 میتوانید در حساب نگه دارید 
+WithdrawRule;⚠️Withdrawals are available above 20💲. You can keep up to 10💲;⚠️حداقل موجودی برای برداشت 20💲 است. تا 10💲 میتوانید در حساب نگه دارید 
 NotEnoughMoney;⚠️Not enough money;⚠️پول کافی ندارید
 EmailSubmitted;✔️Email submitted;✔️ایمیل ثبت شد
 EmailNotExist;❗Email is not submitted;❗ایمیل ثبت نشده است
