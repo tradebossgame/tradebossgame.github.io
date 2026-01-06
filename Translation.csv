@@ -8,7 +8,7 @@ Close;❌Close;❌بستن
 Save;✅Save;✅ذخیره
 Retry;🔄Retry;🔄تلاش دوباره
 Quit;🚪Quit;🚪خروج
-Info;ℹ️Info;ℹ️اطلاعات
+Info;ℹ️Info;اطلاعاتℹ️
 Download;⬇️Download;⬇️دانلود
 Email;✉️Email;✉️ایمیل
 Code;Code;کد
@@ -30,8 +30,8 @@ DashReward;💰DashReward;💰جایزه جهش
 WelcomeGift;🎁WelcomeGift;🎁هدیه خوشامد
 NickName;🏷️NickName;🏷️نام مستعار
 Downgrade;🚫Using old version is not supported;🚫بازگشت به نسخه قبلی امکان پذیر نیست
-ForceUpdate;🆕New version available;🆕نسخه جدید منتشر شده
-AlreadyOnline;‼️User is already online;‼️کاربر آنلاین است
+ForceUpdate;🔥New version available;🔥نسخه جدید منتشر شده
+AlreadyOnline;⚠️User is already online;⚠️کاربر آنلاین است
 ConnectionError;⛓️‍💥Connection error;⛓️‍💥خطا در اتصال
 LoginError;⛔Error in login;⛔خطا در ورود
 TradeInfo;In 📈Trade tab you can practice trading;در صفحه 📈ترید، می توانید به صورت تمرینی توانایی خود را با قیمت و شرایط واقعی بسنجید
@@ -43,7 +43,7 @@ DepositRule;⚠️Deposit is available when in-game money is less that 9💲and 
 WithdrawRule;⚠️Withdrawals are available above 20💲. You can keep up to 10💲;⚠️حداقل موجودی برای برداشت 20💲 است. تا 10💲 می توانید در حساب نگه دارید
 NotEnoughMoney;⚠️Not enough money;⚠️پول کافی ندارید
 EmailSubmitted;✔️Email submitted;✔️ایمیل ثبت شد
-EmailNotExist;❗Email is not submitted;❗ایمیل ثبت نشده است
+EmailNotExist;⚠️Email is not submitted;⚠️ایمیل ثبت نشده است
 EmailNotValid;⚠️The input is not a valid Email address;⚠️آدرس ایمیل وارد شده معتبر نیست
 BalanceTooLow;⚠️Balance is too low;⚠️موجودی ترید کم است
 ChooseNickname;☑️Choose nickname;☑️نام مستعار خود را انتخاب کنید
@@ -51,8 +51,8 @@ ClearDataWarning;⚠️Are you sure you want to clear user data?;⚠️آیا ا
 RemoveEmailWarning;⚠️Without email, account is not recoverable. Are you sure you want to remove email address?;⚠️اکانت بدون ایمیل قابل بازیابی نیست. آیا از حذف ایمیل اطمینان دارید؟
 NewUserWarning;❔Are you sure you want to create a user?;❔آیا اطمینان دارید که می خواهید یک حساب کاربری جدید بسازید؟
 EmailNotSent;⚠️There was a problem sending Email;⚠️مشکلی در ارسال ایمیل رخ داد
-WrongCode;‼️Incorrect code;‼️کد وارد شده اشتباه است
-SubmitEmailError;⁉️An error occured during submitting email;⁉️ثبت ایمیل با خطا مواجه شد
+WrongCode;⚠️Incorrect code;⚠️کد وارد شده اشتباه است
+SubmitEmailError;⚠️An error occured during submitting email;⚠️ثبت ایمیل با خطا مواجه شد
 EnterEmail;Enter email address;آدرس ایمیل خود را وارد کنید
 EnterCode;Enter the code;کد ارسال شده به ایمیل را وارد کنید
 EnterValidPrice;Enter a valid integer number;قیمت را به صورت یک عدد صحیح بدون هیچ نشانه ای وارد کنید
@@ -67,11 +67,11 @@ Wallet;💼Wallet;💼کیف پول
 User;👤User;👤کاربر
 Start;▶️Start;◀️شروع
 Back;◀️Back;▶️بازگشت
-Price;🏷️Price;🏷️قیمت
+Price;Price;قیمت
 ComingSoon;🚧Coming soon!;🚧بزودی!
 Money;💵Money;💵پول
 Copy;📋Copy;📋کپی
-UserId;🫆User Id;🫆شناسه کاربر
+UserId;User Id;شناسه کاربر
 SetNickname;🏷️Set Nickname;🏷️تعیین نام مستعار
 SelectAvatar;🎭Select Avatar;🎭انتخاب آواتار
 SubmitEmail;✉️Submit Email;✉️ثبت ایمیل
