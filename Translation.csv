@@ -24,11 +24,13 @@ Trade;📈Trade;📈معامله
 Dash;🚀Dash;🚀جهش
 Jump;🏆Jump;🏆پرش
 Rise;👑Rise;👑صعود
+Avatar;🎭Avatar;🎭آواتار
+BuyAvatar;Are you sure you want to buy Avatar?;آیا مطمئن هستید می خواهید آواتار بخرید؟
 Deposit;📥Deposit;📥واریز
 Withdraw;📤Withdraw;📤برداشت
 DashReward;💰DashReward;💰جایزه جهش
 WelcomeGift;🎁WelcomeGift;🎁هدیه خوشامد
-NickName;🏷️NickName;🏷️نام مستعار
+Nickname;🏷️Nickname;🏷️نام مستعار
 Downgrade;🚫Using old version is not supported;🚫بازگشت به نسخه قبلی امکان پذیر نیست
 ForceUpdate;🔥New version available;🔥نسخه جدید منتشر شده
 AlreadyOnline;⚠️User is already online;⚠️کاربر آنلاین است
@@ -116,5 +118,5 @@ EmptyMeansMarketPrice;Empty means market price;خالی یعنی قیمت باز
 WalletAddressInfo;USDT BEP20 address;آدرس USDT شبکه BEP20
 YouCanKeepUpTo10$;You can keep up to 10💲;می توانید تا 10💲 نگه دارید
 Keep;Keep;نگه داشتن
-TradeBossSite;🏠TradeBoss Site;🏠سایت تریدباس
-TradeBossMail;📭TradeBoss Mail;📭ایمیل تریدباس
+TradeBossSite;🏠TradeBoss site;🏠سایت تریدباس
+TradeBossMail;📭TradeBoss mail;📭ایمیل تریدباس
