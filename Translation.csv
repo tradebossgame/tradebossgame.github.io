@@ -36,11 +36,11 @@ ForceUpdate;🔥New version available;🔥نسخه جدید منتشر شده
 AlreadyOnline;⚠️User is already online;⚠️کاربر آنلاین است
 ConnectionError;⛓️‍💥Connection error;⛓️‍💥خطا در اتصال
 LoginError;⛔Error in login;⛔خطا در ورود
-TradeInfo;In 📈Trade tab you can practice trading;در صفحه 📈ترید، می توانید به صورت تمرینی توانایی خود را با قیمت و شرایط واقعی بسنجید
-GameInfo;🎮Game tab contains different game modes;این صفحه شامل بازی های مختلف با جوایز نقدی است
-OmenInfo;👁Omen is a "Prediction market";👁فال نام یک بازار پیش بینی است که می توانید در آن مشارکت کنید و وقایع آینده را پیش بینی کنید و جوایز نقدی هم برنده شوید
-WalletInfo;you can deposit and withdraw money in 💼Wallet tab;💼کیف پول شما در بازی با امکان واریز و برداشت
-UserInfo;👤User and Game settings are here;تنظیمات مربوط به کاربر و بازی
+TradeInfo;In the Trade tab you can practice trading;در صفحه ترید، می توانید به صورت تمرینی توانایی خود را با قیمت و شرایط واقعی بسنجید
+GameInfo;Game tab contains different game modes;این صفحه شامل بازی های مختلف با جوایز نقدی است
+OmenInfo;Omen is a "Prediction market";فال نام یک بازار پیش بینی است که می توانید در آن مشارکت کنید و وقایع آینده را پیش بینی کنید و جوایز نقدی هم برنده شوید
+WalletInfo;you can deposit and withdraw money in the Wallet tab;کیف پول شما در بازی با امکان واریز و برداشت
+UserInfo;User and Game settings are here;تنظیمات مربوط به کاربر و بازی
 DepositRule;⚠️Deposit is available when in-game money is less that 9💲and can increase balance up to 10💲;⚠️پرداخت برای موجودی کمتر از 9💲 امکان پذیر است و می توانید موجودی را تا 10💲 افزایش دهید
 WithdrawRule;⚠️Withdrawals are available above 20💲. You can keep up to 10💲;⚠️حداقل موجودی برای برداشت 20💲 است. تا 10💲 می توانید در حساب نگه دارید
 NotEnoughMoney;⚠️Not enough money;⚠️پول کافی ندارید
