@@ -21,9 +21,9 @@ Seconds;Seconds;ثانیه
 Order;📦Order;📦سفارش
 Position;📊Position;📊موقعیت
 Trade;📈Trade;📈معامله
-Dash;🚀Dash;🚀جهش
-Jump;🏆Jump;🏆پرش
-Rise;👑Rise;👑صعود
+Dash;🎯Dash;🎯جهش
+Jump;🔥Jump;🔥پرش
+Rise;🚀Rise;🚀صعود
 Avatar;🎭Avatar;🎭آواتار
 BuyAvatar;Are you sure you want to buy Avatar?;آیا مطمئن هستید می خواهید آواتار بخرید؟
 Deposit;📥Deposit;📥واریز
@@ -51,7 +51,7 @@ BalanceTooLow;⚠️Balance is too low;⚠️موجودی ترید کم است
 ChooseNickname;☑️Choose nickname;☑️نام مستعار خود را انتخاب کنید
 ClearDataWarning;⚠️Are you sure you want to clear user data?;⚠️آیا اطمینان دارید که می خواهید اطلاعات بازی را پاک کنید؟
 RemoveEmailWarning;⚠️Without email, account is not recoverable. Are you sure you want to remove email address?;⚠️اکانت بدون ایمیل قابل بازیابی نیست. آیا از حذف ایمیل اطمینان دارید؟
-NewUserWarning;❔Are you sure you want to create a user?;❔آیا اطمینان دارید که می خواهید یک حساب کاربری جدید بسازید؟
+NewUserWarning;⚠️Are you sure you want to create a user?;⚠️آیا اطمینان دارید که می خواهید یک حساب کاربری جدید بسازید؟
 EmailNotSent;⚠️There was a problem sending Email;⚠️مشکلی در ارسال ایمیل رخ داد
 WrongCode;⚠️Incorrect code;⚠️کد وارد شده اشتباه است
 SubmitEmailError;⚠️An error occured during submitting email;⚠️ثبت ایمیل با خطا مواجه شد
@@ -86,9 +86,9 @@ Target;🎯Target;🎯هدف
 TimeLimit;⏱️Time limit;⏱️زمان
 Cost;🪙Cost;🪙قیمت
 Reward;💰Reward;💰جایزه
-DashInfo;🚀Dash mode is a time-limited trade game with a target;در بازی 🚀جهش در زمان محدود باید به سود مشخصی دست پیدا کنید
-JumpInfo;in 🏆Jump mode, you compete with other players in a limited time and best players get money rewards;در بازی 🏆پرش شما با بازیکنان دیگر در مدتی محدود رقابت می کنید و بهترین بازیکنان جایزه نقدی دریافت می کنند
-RiseInfo;Are you ready for a 1000💲 challenge? 👑Rise mode is a multi-level game in which money reward increase each level and you can claim your money reward and leave in each level;برای یک چالش با جایزه 1000💲آماده ای؟ 👑صعود یک بازی چند مرحله ای است که در هر مرحله جایزه افزایش می یابد و شما در هر مرحله که بخواهید می توانید از جایزه خود را دریافت کنید و از بازی خارج شوید
+DashInfo;Dash mode is a time-limited trade game with a target;در بازی جهش در زمان محدود باید به سود مشخصی دست پیدا کنید
+JumpInfo;in Jump mode, you compete with other players in a limited time and best players get money rewards;در بازی پرش شما با بازیکنان دیگر در مدتی محدود رقابت می کنید و بهترین بازیکنان جایزه نقدی دریافت می کنند
+RiseInfo;Are you ready for a 1000💲 challenge? Rise mode is a multi-level game in which money reward increase each level and you can claim your money reward and leave in each level;برای یک چالش با جایزه 1000💲آماده ای؟ صعود یک بازی چند مرحله ای است که در هر مرحله جایزه افزایش می یابد و شما در هر مرحله که بخواهید می توانید از جایزه خود را دریافت کنید و از بازی خارج شوید
 Balance;💳Balance;💳موجودی
 Play;▶️Play;◀️ورود
 NewGame;✨New game;✨بازی جدید
