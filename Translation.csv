@@ -13,6 +13,8 @@ Download;⬇️Download;⬇️دانلود
 Email;✉️Email;✉️ایمیل
 Code;Code;کد
 Update;⚡️Update;⚡️بروز رسانی
+UpdateAvailable;🌟New version available. Please download new version;🌟نسخه جدید منتشر شده. لطفا نسخه جدید را دانلود کنید.
+UpdateRequired;⚡️New version required. Please download latest version to continue;⚡️نسخه جدید مورد نیاز است. لطفا برای ادامه نسخه جدید را دانلود کنید.
 Ended;🏁Ended;🏁پایان یافته
 Days;Days;روز
 Hours;Hours;ساعت
@@ -32,7 +34,6 @@ DashReward;💰DashReward;💰جایزه جهش
 WelcomeGift;🎁WelcomeGift;🎁هدیه خوشامد
 Nickname;🏷️Nickname;🏷️نام مستعار
 Downgrade;🚫Using old version is not supported;🚫بازگشت به نسخه قبلی امکان پذیر نیست
-ForceUpdate;🔥New version available;🔥نسخه جدید منتشر شده
 AlreadyOnline;⚠️User is already online;⚠️کاربر آنلاین است
 ConnectionError;⛓️‍💥Connection error;⛓️‍💥خطا در اتصال
 LoginError;⛔Error in login;⛔خطا در ورود
