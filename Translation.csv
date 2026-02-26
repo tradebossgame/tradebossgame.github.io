@@ -12,6 +12,7 @@ Info;ℹ️Info;ℹ️اطلاعات
 Download;⬇️Download;⬇️دانلود
 Email;✉️Email;✉️ایمیل
 Code;Code;کد
+Later;⏰Later;⏰بعدا
 Update;⚡️Update;⚡️بروز رسانی
 UpdateAvailable;🌟New version available. Please download new version;🌟نسخه جدید منتشر شده. لطفا نسخه جدید را دانلود کنید.
 UpdateRequired;⚡️New version required. Please download latest version to continue;⚡️نسخه جدید مورد نیاز است. لطفا برای ادامه نسخه جدید را دانلود کنید.
@@ -24,7 +25,7 @@ Order;📦Order;📦سفارش
 Position;📊Position;📊موقعیت
 Trade;📈Trade;📈معامله
 Dash;🎯Dash;🎯جهش
-Jump;🔥Jump;🔥پرش
+Jump;☄️Jump;☄️پرش
 Rise;🚀Rise;🚀صعود
 Avatar;🎭Avatar;🎭آواتار
 BuyAvatar;Are you sure you want to buy Avatar?;آیا مطمئن هستید می خواهید آواتار بخرید؟
@@ -98,7 +99,7 @@ ClaimReward;💰Claim reward;💰دریافت جایزه
 PleaseWait;⏳Please wait!;⏳لطفا کمی صبر کنید!
 Margin;Margin;تضمین
 Side;Side;سمت
-Buy;Buy;خرید
+Buy;🛒Buy;🛒خرید
 Sell;Sell;فروش
 Leverage;Leverage;اهرم
 OpenPrice;Open price;قیمت ورود
